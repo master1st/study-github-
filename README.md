@@ -24,12 +24,12 @@ This is the **bold**
 *itatlic*
 ~~strikethrough~~
 
-___
+
 <!-- Quote -->
 > Don't forget to code your dream.
 
 
-___
+
 > 리스트 나열
 <!--  Bullte list -->
 Fruits:
@@ -50,6 +50,7 @@ ___
 <!-- Link-->
 Click [My first projects](file:///C:/Users/82109/Downloads/christmas.html)
 Click [My Second projects](file:///C:/Users/82109/Downloads/youtube.html) 
+
 Clone Coding 출처**https://www.youtube.com/watch?v=tL8xI__LOTY**
 <!-- Image -->
 ![image description](http://user-images.githubusercontent.com/61736137/102153953-b2881000-3ebb-11eb-9581-7026bc8e169e.jpg)
