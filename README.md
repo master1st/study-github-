@@ -5,7 +5,7 @@
 ___
 
 
-> 텍스쳐의 크기 H1,H2,H3..
+## 텍스쳐의 크기 H1,H2,H3..
 <!-- Heading -->
 # Heading 1 
 ## Heading 1 
@@ -16,12 +16,12 @@ ___
 paragraph
 
 
-> 밑줄긋기
+## 밑줄긋기
 <!-- Line -->
 ___
 
 
-> 문서체 OR 굵기
+## 문서체 OR 굵기
 <!-- Text attributes-->
 This is the **bold**
 *itatlic*
@@ -33,7 +33,7 @@ This is the **bold**
 
 
 
-> 리스트 나열
+## 리스트 나열
 <!--  Bullte list -->
 Fruits:
 * a
@@ -50,14 +50,16 @@ Numbers:
 3. third
 ___
 
-> 외부 링크 
+## 링크 
 <!-- Link-->
 Click [here](www.naver.com)
 
 <!-- Image -->
 ![image description](http://user-images.githubusercontent.com/61736137/102153953-b2881000-3ebb-11eb-9581-7026bc8e169e.jpg)
 
-> 테이블 ** 
+
+
+## 테이블 
 <!-- Table -->   
 |Header|Description|
 |:--:|:--:
@@ -67,7 +69,8 @@ Click [here](www.naver.com)
 |Cell1|Cell2|
 |Cell1|Cell2|
  
- >highlight , 코드 설명 
+ 
+## 코드 리뷰
 <!-- Code-->
 > To print message in the console, use
 `console.log('your message')` and .. 
